@@ -26,4 +26,4 @@ ARRIA is NOT a consumer AI product.
 It is an internal intelligence system built for learning, experimentation, and private security research.
 
 
-STATUS: A.R.R.I.A  is currently in early development. Modules will be uploaded progressively as the R7D STRUCTURE STABLIZES.
+STATUS: A.R.R.I.A  is currently in early development. Modules will be uploaded progressively as the R&D STRUCTURE STABLIZES.
