@@ -23,7 +23,7 @@ It is an internal intelligence system built for learning, experimentation, and p
 
 ---
 
-🛡️ Chemo Safe Language (Official Positioning)
+🛡️ kImo Safe Language (Official Positioning)
 
 ARRIA is an internal research initiative of Azcendria Astral.
 All modules, tools, and methodologies in this repository are:
